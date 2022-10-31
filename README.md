@@ -13,7 +13,7 @@ I am 25 years old. Born and raised in Stockholm, Sweden. Right now i am currentl
 
 
 ### 💀Short about me💀
-Besides from coding, in addition to coding and learning to code, I practice football, running and strength training. I am quite spiritual and like to do rituals that strengthen my mind, focus and well-being. I am also very interested in cooking, wines (preferably from Spain) investments in general and small businessess. A dream trip is to experience national parks around the world.
+Besides from coding, in addition to coding and learning to code, I practice football, running and strength training. I am quite spiritual and like to do rituals that strengthen my mind, focus and well-being. I am also very interested in cooking, wines (preferably from Spain), investments in general and small businessess. A dream trip is to experience national parks around the world.
 
 
 
