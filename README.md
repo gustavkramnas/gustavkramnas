@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/113347416/199119011-861c6d27-42e3-42bf-b6e2-4cf15988abfb.jpg)
+
+![viritual-banner](https://user-images.githubusercontent.com/113347416/199127338-ad61ca10-8c6d-4180-99b1-1f069fc01ceb.png)
 
 ### 🌟 Yyyhello 👋 Gustav Kramnäs™️ 🌟
 I am 25 years old. Born and raised in Stockholm, Sweden. Right now i am currently studying to become a Front End developer at Hyper Island. I am an all-rounder and love to try new things and try to learn a lot of things along the way. I am a person who goes against the grain in the mainstream direction and does what I feel like. Right now I'm really into tech and business.
