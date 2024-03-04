@@ -8,6 +8,7 @@ I am 25 years old. Born and raised in Stockholm, Sweden. Right now i am currentl
 ### 😃Connect with me/Social links😃
 - LinkedIn (https://www.linkedin.com/in/gustav-kramn%C3%A4s-ab6315138/)
 - Instagram (https://www.instagram.com/gustavkramnas/?next=%2F
+- https://kramnas-portfolio.netlify.app/
 
 
 ### 💀Short about me💀
