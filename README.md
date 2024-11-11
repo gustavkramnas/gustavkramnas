@@ -4,6 +4,12 @@
 ### 🌟 Yyyhello 👋 Gustav Kramnäs™️ 🌟
 I am 27 years old. Born and raised in Stockholm, Sweden. I am an all round person and love to try new things and try to learn a lot of things along the way. Right now I'm really into tech and business.
 
+### Pages / PLattforms I've been involved in building:
+- https://www.bjornbacka.se/
+- https://www.nilocollab.com/
+- https://www.fill.work/
+- https://hartwork.netlify.app/
+
 
 ### 😃Connect with me/Social links😃
 - LinkedIn (https://www.linkedin.com/in/gustav-kramn%C3%A4s-ab6315138/)
