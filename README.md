@@ -2,7 +2,7 @@
 ![viritual-banner](https://user-images.githubusercontent.com/113347416/199127338-ad61ca10-8c6d-4180-99b1-1f069fc01ceb.png)
 
 ### 🌟 Yyyhello 👋 Gustav Kramnäs™️ 🌟
-I am 25 years old. Born and raised in Stockholm, Sweden. Right now i am currently studying to become a Front End developer at Hyper Island. I am an all-rounder and love to try new things and try to learn a lot of things along the way. I am a person who goes against the grain in the mainstream direction and does what I feel like. Right now I'm really into tech and business.
+I am 27 years old. Born and raised in Stockholm, Sweden. I am an all round person and love to try new things and try to learn a lot of things along the way. Right now I'm really into tech and business.
 
 
 ### 😃Connect with me/Social links😃
@@ -11,7 +11,7 @@ I am 25 years old. Born and raised in Stockholm, Sweden. Right now i am currentl
 
 
 ### 💀Short about me💀
-Besides from coding, in addition to coding and learning to code, I practice football, running and strength training. I am quite spiritual and aware of my mind, focus and well-being. I am also very interested in cooking, wines (preferably from Spain), investments in general and small businessess. A dream trip is to experience national parks around the world.
+Besides from coding, in addition to coding and learning to code, I practice football, running and strength training. I am quite spiritual and aware of my mind, focus and well-being. I am also very interested in cooking, wines, investments in general and starting businessess. A dream trip is to experience national parks around the world.
 
 
 
